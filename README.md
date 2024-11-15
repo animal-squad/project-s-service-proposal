@@ -56,7 +56,7 @@
 
 ****볼드체 처리된 부분이 1차 프로젝트 기간(~11/13)까지 완료할 최소 기능**
 
-[1차 프로젝트 기간 MVP](https://github.com/animal-squad/project-s-service-proposal/blob/main/1st_mvp_241008.md)
+[1차 프로젝트 기간 MVP](https://github.com/animal-squad/project-s-service-proposal/blob/main/1st_mvp_241030.md)
 
 ## **사용 스택**
 
